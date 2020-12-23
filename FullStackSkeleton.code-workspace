@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Pobrane/cookiecutter-django-master/docs/_static"
+		}
+	],
+	"settings": {}
+}
